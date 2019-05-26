@@ -1,0 +1,1 @@
+function c(){alert("c")}
